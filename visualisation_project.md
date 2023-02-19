@@ -13,7 +13,7 @@
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s4.png)
 
 ####  S5 Interactive
-![Mock Slide](https://github.com/mateuszcedro/mateuszcedro/blob/main/visualisation/S5.gif)
+![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/4a4cd3803734b07a451eb32a58166e8e22b255d4/gifs/S5.gif)
 
 ####  S6
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s6.png)
