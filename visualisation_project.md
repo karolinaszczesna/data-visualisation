@@ -1,7 +1,7 @@
 # Visualisation Project
 
 ####  S1
-![Mock Slide](https://github.com/mateuszcedro/mateuszcedro/blob/main/visualisation/s2.png)
+![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/5ab5c12dd47a7f6e83455bf419e11140bab68eb4/plots/s2.png)
 
 ####  S2
 ![Mock Slide](https://github.com/mateuszcedro/mateuszcedro/blob/main/visualisation/s3.png)
