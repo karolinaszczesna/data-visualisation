@@ -4,7 +4,7 @@
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/5ab5c12dd47a7f6e83455bf419e11140bab68eb4/plots/s2.png)
 
 ####  S2
-![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/7c1d7f7f3a287b80c596d22780d60035b5c65ae9/plots/s3.png)
+![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/d7c63cf29c76fbd0de90933af6fe2680ed4faccc/plots/s3.png)
 
 ####  S3
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/7c1d7f7f3a287b80c596d22780d60035b5c65ae9/plots/s10.png)
