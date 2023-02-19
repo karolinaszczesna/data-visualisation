@@ -36,13 +36,8 @@ library(gapminder)
 library(gganimate)
 options(scipen=10000)
 
-getwd()
-setwd('C:/Users/Mateusz/Documents/Studia_nauka/Master/UW/DS WNE/3 Sem/Adv Viz/Adv Vis/')
-df <- read_csv("AdvVis_Project/HRDataset_v14.csv")
-zip <- read_csv("AdvVis_Project/zip_lat_long.csv")
-
-#df <- read_csv("/Users/karolina.szczesna/Desktop/HRDataset_v14.csv")
-#zip  <- read_csv("/Users/karolina.szczesna/Desktop/zip_lat_long.csv")
+df <- read_csv("/Users/karolina.szczesna/Desktop/HRDataset_v14.csv")
+zip  <- read_csv("/Users/karolina.szczesna/Desktop/zip_lat_long.csv")
 
 ######################################################
 #                  Data Dictionary                   #
