@@ -28,7 +28,7 @@
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s9.png)
 
 ####  S10
-![Mock Slide](https://github.com/mateuszcedro/mateuszcedro/blob/main/visualisation/gganim_yearOfHire.gif)
+![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/2177a742f15b524b6ec6856b39d7320b5e755d22/gifs/gganim_yearOfHire.gif)
 
 ####  Map 1 Interactive
 ![Mock Slide](https://github.com/mateuszcedro/mateuszcedro/blob/main/visualisation/map1.gif)
