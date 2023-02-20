@@ -1,7 +1,17 @@
-# Visualisation Project
+# Exploratory Data Analysis and Visualization for Human Resources dataset
 
-####  S1
+The main purpose of this analysis is to display the main characteristics of the organization, find the most significant determinants of a salary, as well as gain information about the most successful employees. The analysis is conucted in R.
+
+## Dataset description
+
+The original dataset from Kaggle (https://www.kaggle.com/datasets/rhuebner/human-resources-data-set) contained 311 observations of employees from a certain organization and 36 variables. We conducted data transformations and feature engineering, and our final dataset consisted of 294 observations and 47 variables.
+
+## Data visualisation
+
+### Organization distribution
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/5ab5c12dd47a7f6e83455bf419e11140bab68eb4/plots/s2.png)
+
+The donut chart shows that there are more females in the organization than males. When it comes to race, the majority of employees are of white race, then there are significant shares of employees of black or asian race (pie chart). Based on the horizontal barplot, there is an equal number of widowed females and males in the organization. Moreover, the number of separated females highly exceeds the number of separated males, whereas the differences in other marital statuses are less varied. Stacked barplot indicates that employees of white, black or asian races work in all departments of the organization, while indian/native or other races work in sales or production and all hispanic people are employed in the production sector. 
 
 ####  S2
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/d7c63cf29c76fbd0de90933af6fe2680ed4faccc/plots/s3.png)
