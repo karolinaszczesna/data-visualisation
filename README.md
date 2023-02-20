@@ -46,7 +46,7 @@ From these four bubble plots it is clearly visible that in Production department
 
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/4a4cd3803734b07a451eb32a58166e8e22b255d4/gifs/S5.gif)
 
-This aggregated interactive plot made with plotly library combines bubble plots presented before for all departments but Production. Similar conclusions can be drawn in Sales, where the only observation with a yearly salary above $150k is a Sales Manager (outlier) and all other employees earn below $100k a year. The employees from the Engineering department also do not earn more as their work experience grows, however the average salary oscillates around $100k a year, which is higher than in Production and Sales. There is an increasing trend in the IT/IS department, meaning the more years an employee works, probably the higher he/she can earn, however only for the best performing employees. There is a group of IT employees, who work from 6-8 years and are stuck on the same level of yearly salary.
+The html version of this plot is available [here](https://drive.google.com/file/d/1K0MRoyAz230QqygAWnXS6z7GeRkATTiy/view?usp=sharing). This aggregated interactive plot made with plotly library combines bubble plots presented before for all departments but Production. Similar conclusions can be drawn in Sales, where the only observation with a yearly salary above $150k is a Sales Manager (outlier) and all other employees earn below $100k a year. The employees from the Engineering department also do not earn more as their work experience grows, however the average salary oscillates around $100k a year, which is higher than in Production and Sales. There is an increasing trend in the IT/IS department, meaning the more years an employee works, probably the higher he/she can earn, however only for the best performing employees. There is a group of IT employees, who work from 6-8 years and are stuck on the same level of yearly salary.
 
 ### 5. Employees’ performance and demographics 
 
@@ -72,6 +72,6 @@ The animation presents the aggragated line plots of the number of employments in
 
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/0ef4b4444abb2a73947c7d0548f61276851f241b/maps/map2.gif)
 
-The first map shows the distribution of employees location over the whole United States. Only the employees from Sales department are scattered over all states, whereas other departments are centered around Boston, where perhaps there is the main office of the organization.
+The html versions of the maps are available here: [map1](https://drive.google.com/file/d/10mpIcW6tOYHRnq4o9kuOqGhGQMxlH5xt/view?usp=share_link) and [map2](https://drive.google.com/file/d/1znMUXbNFL1OZCx95ZNdi42MDPbC7HtxU/view?usp=sharing). The first map shows the distribution of employees location over the whole United States. Only the employees from Sales department are scattered over all states, whereas other departments are centered around Boston, where perhaps there is the main office of the organization.
 
 The second map displays a zoomed version of the first map, which is the distribution of employees location around Boston. It is visible that all Production and Engineering departments employees are located in Boston and its suburbs, while IT department employees are located in Massachusetts, Connecticut and Rhode Island states.
