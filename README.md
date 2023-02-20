@@ -9,21 +9,32 @@ The original dataset from Kaggle (https://www.kaggle.com/datasets/rhuebner/human
 ## Data visualisation
 
 ### Organization distribution
+
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/5ab5c12dd47a7f6e83455bf419e11140bab68eb4/plots/s2.png)
 
 The donut chart shows that there are more females in the organization than males. When it comes to race, the majority of employees are of white race, then there are significant shares of employees of black or asian race (pie chart). Based on the horizontal barplot, there is an equal number of widowed females and males in the organization. Moreover, the number of separated females highly exceeds the number of separated males, whereas the differences in other marital statuses are less varied. Stacked barplot indicates that employees of white, black or asian races work in all departments of the organization, while indian/native or other races work in sales or production and all hispanic people are employed in the production sector. 
 
-####  S2
+###  Salary distribution with respect to departments
+
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/d7c63cf29c76fbd0de90933af6fe2680ed4faccc/plots/s3.png)
 
-####  S3
+Histograms and density plots in the upper part show that all distributions are right-skewed. The boxplots and violin plots indicate that employees from Engineering and IT departments have the highest median of salary compared to Sales and Production. Other than that, violin plots show that there are a lot of extreme observations in the IT department and one or two outliers in Production or Sales - these are the managers who earn much more than other employees.
+
+### Department salary between-subject comparisons
+
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s10.png)
 
-####  S4
+XXX
+
+### How the number of years worked impact the salary in each department?
+
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s4.png)
 
-####  S5 Interactive
+From these four bubble plots it is clearly visible that in Production department, there is almost no variety in earned salary based on work experience. In order to better compare all employees, an interactive bubble plot was created.
+
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/4a4cd3803734b07a451eb32a58166e8e22b255d4/gifs/S5.gif)
+
+This aggregated interactive plot made with plotly library combines bubble plots presented before for all departments but Production. Similar conclusions can be drawn in Sales, where the only observation with a yearly salary above $150k is a Sales Manager and all other employees earn below $100k a year. The employees from the Engineering department also do not earn more as their work experience grows, however the average salary oscillates around $100k a year, which is higher than in Production and Sales. There is an increasing trend in the IT/IS department, meaning the more years an employee works, probably the higher he/she can earn, however only for the best performing employees. There is a group of IT employees, who work from 6-8 years and are stuck on the same level of yearly salary.
 
 ####  S6
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s6.png)
