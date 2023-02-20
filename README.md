@@ -26,7 +26,7 @@ Histograms and density plots in the upper part show that all distributions are r
 
 ![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s10.png)
 
-XXX
+Paiswise statistical analysis informs us that p-values of pairs are less than 5%, therefore they are statistically significant. This means that the distributions of pairs are varied.
 
 ## 3. How the number of years worked impact the salary?
 
