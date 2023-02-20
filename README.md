@@ -14,13 +14,13 @@ The original dataset from Kaggle (https://www.kaggle.com/datasets/rhuebner/human
 
 ## 1. Organization distribution
 
-![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/5ab5c12dd47a7f6e83455bf419e11140bab68eb4/plots/s2.png)
+![Mock Slide](https://github.com/karolinaszczesna/hr-data-visualisation/blob/d6dc1f836392f66efe106892c3031747c1070434/plots/s2.png)
 
 The donut chart shows that there are more females in the organization than males. When it comes to race, the majority of employees are of white race, then there are significant shares of employees of black or asian race (pie chart). Based on the horizontal barplot, there is an equal number of widowed females and males in the organization. Moreover, the number of separated females highly exceeds the number of separated males, whereas the differences in other marital statuses are less varied. Stacked barplot indicates that employees of white, black or asian races work in all departments of the organization, while indian/native or other races work in sales or production and all hispanic people are employed in the production sector. 
 
 ##  2. Salary distribution with respect to departments
 
-![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/d7c63cf29c76fbd0de90933af6fe2680ed4faccc/plots/s3.png)
+![Mock Slide](https://github.com/karolinaszczesna/hr-data-visualisation/blob/d6dc1f836392f66efe106892c3031747c1070434/plots/s3.png)
 
 Histograms and density plots in the upper part show that all distributions are right-skewed. The boxplots and violin plots indicate that employees from Engineering and IT departments have the highest median of salary compared to Sales and Production. Other than that, violin plots show that there are a lot of extreme observations in the IT department and one or two outliers in Production or Sales - these are the managers who earn much more than other employees.
 
