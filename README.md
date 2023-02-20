@@ -32,7 +32,7 @@ Paiswise statistical analysis informs us that p-values of pairs are less than 5%
 
 ![Mock Slide](https://github.com/karolinaszczesna/hr-data-visualisation/blob/55c5d3b70a2f3745a13043e93b6e3fcd218fc6cb/plots/s7.png)
 
-Scatter plot with trend line shows that there is a slightly inscreasing trend in salary as the number of years worked rise. However, the distribution of observations vary a lot and there occur some outliers, therefore the next scatter plot displays the dependence of years worked on salary with respect to departments.
+Scatter plot with trend line shows that there is a slightly inscreasing trend in salary as the number of years worked rises. However, the distribution of observations vary a lot and there occur some outliers, therefore the next scatter plot displays the dependence of years worked on salary with respect to departments.
 
 ### 4. How the number of years worked impact the salary in each department?
 
