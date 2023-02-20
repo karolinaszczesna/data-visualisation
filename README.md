@@ -24,23 +24,23 @@ The donut chart shows that there are more females in the organization than males
 
 Histograms and density plots in the upper part show that all distributions are right-skewed. The boxplots and violin plots indicate that employees from Engineering and IT departments have the highest median of salary compared to Sales and Production. Other than that, violin plots show that there are a lot of extreme observations in the IT department and one or two outliers in Production or Sales - these are the managers who earn much more than other employees.
 
-![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s10.png)
+![Mock Slide](https://github.com/karolinaszczesna/hr-data-visualisation/blob/55c5d3b70a2f3745a13043e93b6e3fcd218fc6cb/plots/s10.png)
 
 Paiswise statistical analysis informs us that p-values of pairs are less than 5%, therefore they are statistically significant. This means that the distributions of pairs are varied.
 
 ## 3. How the number of years worked impact the salary?
 
-![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s7.png)
+![Mock Slide](https://github.com/karolinaszczesna/hr-data-visualisation/blob/55c5d3b70a2f3745a13043e93b6e3fcd218fc6cb/plots/s7.png)
 
 Scatter plot with trend line shows that there is a slightly inscreasing trend in salary as the number of years worked rise. However, the distribution of observations vary a lot and there occur some outliers, therefore the next scatter plot displays the dependence of years worked on salary with respect to departments.
 
 ## 4. How the number of years worked impact the salary in each department?
 
-![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s8.png)
+![Mock Slide](https://github.com/karolinaszczesna/hr-data-visualisation/blob/55c5d3b70a2f3745a13043e93b6e3fcd218fc6cb/plots/s8.png)
 
 Based on the second scatter plot, the trend lines for each department are highly impacted by outliers, which are emphasized at the top of the plot. There is one outliers per Production and Sales departments, and 7 outliers in IT department. 
 
-![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s4.png)
+![Mock Slide](https://github.com/karolinaszczesna/hr-data-visualisation/blob/55c5d3b70a2f3745a13043e93b6e3fcd218fc6cb/plots/s4.png)
 
 From these four bubble plots it is clearly visible that in Production department, there is almost no variety in earned salary based on work experience. In order to better compare all employees, an interactive bubble plot was created.
 
@@ -50,13 +50,13 @@ This aggregated interactive plot made with plotly library combines bubble plots 
 
 ## 5. Employees’ performance and demographics 
 
-![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s6.png)\
+![Mock Slide](https://github.com/karolinaszczesna/hr-data-visualisation/blob/55c5d3b70a2f3745a13043e93b6e3fcd218fc6cb/plots/s6.png)
 
 This is an alluvial plot which represents employees’ performance and demographics regarding whether they still work (TRUE) or not (FALSE). It can be concluded that termination status is not correlated with performance or demographics of the employees, which matches the information from the dataset that all employees resign of their own will. Besides that, in terms of marital status, females and males are divided equally to single or married. Around half or married and half or single women gained a performance score above average. 
 
 ## 6. What are the recruitment sources of the best performing employees?
 
-![Mock Slide](https://github.com/karolinaszczesna/data-visualisation/blob/1c563b7050bbb364a04c8e2e3e70b70d5825182c/plots/s9.png)
+![Mock Slide](https://github.com/karolinaszczesna/hr-data-visualisation/blob/55c5d3b70a2f3745a13043e93b6e3fcd218fc6cb/plots/s9.png)
 
 The third scatter plot shows the dependence between number of years worked on the salary with respect to recruitment sources. The outliers, meaning the best performing employees, are highlighted at the top of the plot. They were recruted from employee referal, Linkedin or job fairs.
 
