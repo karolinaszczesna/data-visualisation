@@ -4,7 +4,7 @@ The main purpose of this analysis is to display the main characteristics of the 
 
 ## Resources organization
 
-All plots are stored in *plots*, interactive plots in *gifs*, and interactive maps in *maps* folders. The full html version of interactive plots in plotly and maps are gathered in *html* folder. The script in R combined all data transformations, EDA and all visualisations.
+All plots are stored in *plots*, interactive plots in *gifs*, and interactive maps in *maps* folders. The script in R combined all data transformations, EDA and all visualisations.
 
 ## Dataset description
 
